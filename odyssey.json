@@ -23,6 +23,7 @@
           "text1": "This text goes into the left box",
           "text2": "This text goes into the top right box",
           "text3": "This text goes into the bottom right box",
+          "text-align": "center",
           "imageurl": "https://i.imgur.com/CRS1P86.png"
         }
       },
