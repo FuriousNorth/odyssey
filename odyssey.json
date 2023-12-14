@@ -1,90 +1,85 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 0,
-        "IconURL": "",
-        "DisableIconText": true,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-            "tab1": {
-          "layout": 3,
-          "buttontext": "Welcome",
-          "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Odyssey ASA</>",
-          "title2": "<RichColor Color=\"1,1,0,1\">Whats New?</>",
-          "title3": "<RichColor Color=\"1,1,0,1\">Events</>",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/puTUBoC.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "<RichColor Color=\"1,1,0,1\">Whats New!</>",
-          "title1": "Left title",
-          "title2": "Right title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/puTUBoC.png"
-        }
-      },
-      {
-        "tab3": {
-          "layout": 3,
-          "buttontext": "Rules",
-          "title1": "Left title",
-          "title2": "Top right title",
-          "title3": "Bottom left title",
-          "text1": "This text goes into the left box",
-          "text2": "This text goes into the top right box",
-          "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/puTUBoC.png"
-        }
-      },
-      {
-        "tab4": {
-          "layout": 4,
-          "buttontext": "Unknown",
-          "title1": "Top left title",
-          "title2": "<TextStyle.Green>Top right title</>",
-          "title3": "<TextStyle.Blue>bottom left title</>",
-          "title4": "<TextStyle.Yellow>bottom right title</>",
-          "text1": "<TextStyle.Orange>This text goes into the top left box</>",
-          "text2": "<TextStyle.Violet>This text goes into the top right box</>",
-          "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
-          "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/puTUBoC.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.com/channels/1158839026422399046/@home"
-        }
-      },
-      {
-        "link2": {
-          "text": "Join",
-          "url": "https://discord.gg/vaDd4rBCaB"
-        }
-      },
-      {
-        "link3": {
-          "text": "Link to google",
-          "url": "https://google.com"
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 0,
+            "IconURL": "",
+            "DisableIconText": true,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 3,
+                    "buttontext": "Welcome",
+                    "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Odyssey ASA</>",
+                    "title2": "<RichColor Color=\"1,1,0,1\">Whats New?</>",
+                    "title3": "<RichColor Color=\"1,1,0,1\">Events</>",
+                    "text1": "This text goes into the left box",
+                    "text2": "This text goes into the top right box",
+                    "text3": "This text goes into the bottom right box",
+                    "imageurl": "https://i.imgur.com/puTUBoC.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "<RichColor Color=\"1,1,0,1\">Whats New!</>",
+                    "title1": "Left title",
+                    "title2": "Right title",
+                    "text1": "This text goes into the left box",
+                    "text2": "This text goes into the right box",
+                    "imageurl": "https://i.imgur.com/puTUBoC.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Rules",
+                    "title1": "Left title",
+                    "title2": "Top right title",
+                    "title3": "Bottom left title",
+                    "text1": "This text goes into the left box",
+                    "text2": "This text goes into the top right box",
+                    "text3": "This text goes into the bottom right box",
+                    "imageurl": "https://i.imgur.com/puTUBoC.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 4,
+                    "buttontext": "Unknown",
+                    "title1": "Top left title",
+                    "title2": "<TextStyle.Green>Top right title</>",
+                    "title3": "<TextStyle.Blue>bottom left title</>",
+                    "title4": "<TextStyle.Yellow>bottom right title</>",
+                    "text1": "<TextStyle.Orange>This text goes into the top left box</>",
+                    "text2": "<TextStyle.Violet>This text goes into the top right box</>",
+                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
+                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
+                    "imageurl": "https://i.imgur.com/puTUBoC.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/channels/1158839026422399046/@home"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Join",
+                    "url": "https://discord.gg/vaDd4rBCaB"
+                }
+            },
+            {}
+        ]
+    }
 }
