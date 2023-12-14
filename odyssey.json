@@ -17,9 +17,9 @@
             "tab1": {
           "layout": 3,
           "buttontext": "Welcome",
-          "title1": "Welcome to Odyssey ASA",
-          "title2": "Whats New?",
-          "title3": "Events",
+          "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Odyssey ASA</>",
+          "title2": "<RichColor Color=\"1,1,0,1\">Whats New?</>",
+          "title3": "<RichColor Color=\"1,1,0,1\">Events</>",
           "text1": "This text goes into the left box",
           "text2": "This text goes into the top right box",
           "text3": "This text goes into the bottom right box",
