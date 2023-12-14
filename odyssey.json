@@ -25,12 +25,12 @@
       {
         "tab2": {
           "layout": 2,
-          "buttontext": "<RichColor Color=\"1,1,0,1\">Whats New</>",
+          "buttontext": "<RichColor Color=\"1,1,0,1\">Whats New!</>",
           "title1": "Left title",
           "title2": "Right title",
           "text1": "This text goes into the left box",
           "text2": "This text goes into the right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/CRS1P86.png"
         }
       },
       {
@@ -43,7 +43,7 @@
           "text1": "This text goes into the left box",
           "text2": "This text goes into the top right box",
           "text3": "This text goes into the bottom right box",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/CRS1P86.png"
         }
       },
       {
@@ -58,7 +58,7 @@
           "text2": "<TextStyle.Violet>This text goes into the top right box</>",
           "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
           "text4": "<TextStyle.White>This text goes into the bottom right box</>",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+          "imageurl": "https://i.imgur.com/CRS1P86.png"
         }
       }
     ],
