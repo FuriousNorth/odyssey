@@ -17,9 +17,9 @@
                 "tab1": {
                     "layout": 3,
                     "buttontext": "Welcome",
-                    "title1": "<RichColor Color=\"1,1,0,1\">Welcome to Odyssey ASA</>",
+                    "title1": "<RichColor Color=\"1,1,0,1\">Welcome to ODYSSEY ASA</>",
                     "title2": "<RichColor Color=\"1,1,0,1\">Whats New?</>",
-                    "title3": "<RichColor Color=\"1,1,0,1\">Events</>",
+                    "title3": "<RichColor Color=\"1,1,0,1\">Upcoming Events</>",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the top right box",
                     "text3": "This text goes into the bottom right box",
@@ -29,7 +29,7 @@
             {
                 "tab2": {
                     "layout": 2,
-                    "buttontext": "<RichColor Color=\"1,1,0,1\">Whats New!</>",
+                    "buttontext": "<RichColor Color=\"1,1,0,1\">Rules</>",
                     "title1": "Left title",
                     "title2": "Right title",
                     "text1": "This text goes into the left box",
@@ -40,7 +40,7 @@
             {
                 "tab3": {
                     "layout": 3,
-                    "buttontext": "Rules",
+                    "buttontext": "Unknown",
                     "title1": "Left title",
                     "title2": "Top right title",
                     "title3": "Bottom left title",
