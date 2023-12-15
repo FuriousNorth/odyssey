@@ -1,9 +1,9 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
+            "OpenButton": 1,
             "HideIcon": false,
-            "HideIconAfter": 1,
+            "HideIconAfter": 20,
             "IconURL": "",
             "DisableIconText": true,
             "IconPosition": 0,
