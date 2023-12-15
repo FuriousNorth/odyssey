@@ -20,7 +20,7 @@
                     "title1": "<RichColor Color=\"1,1,0,1\">Welcome to ODYSSEY ASA</>",
                     "title2": "<RichColor Color=\"1,1,0,1\">Whats New?</>",
                     "title3": "<RichColor Color=\"1,1,0,1\">Upcoming Events</>",
-                    "text1": "This text goes into the left box",
+                    "text1": "<TextStyle.Red>Please join the Discord using the tab below, or alternatively join via discord.gg/hyZPVAVSnn</>",
                     "text2": "This text goes into the top right box",
                     "text3": "This text goes into the bottom right box",
                     "imageurl": "https://i.imgur.com/puTUBoC.png"
