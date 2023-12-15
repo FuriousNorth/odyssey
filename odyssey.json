@@ -28,12 +28,14 @@
             },
             {
                 "tab2": {
-                    "layout": 2,
+                    "layout": 4,
                     "buttontext": "<RichColor Color=\"1,1,0,1\">Rules</>",
                     "title1": "Left title",
                     "title2": "Right title",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the right box",
+                    "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
+                    "text4": "<TextStyle.White>This text goes into the bottom right box</>",
                     "imageurl": "https://i.imgur.com/puTUBoC.png"
                 }
             },
@@ -44,6 +46,7 @@
                     "title1": "Left title",
                     "title2": "Top right title",
                     "title3": "Bottom left title",
+                    "title4": "<TextStyle.Yellow>bottom right title</>",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the top right box",
                     "text3": "This text goes into the bottom right box",
