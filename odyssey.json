@@ -29,10 +29,10 @@
             {
                 "tab2": {
                     "layout": 4,
-                    "buttontext": "<RichColor Color=\"1,1,0,1\">Rules</>",
-                    "title1": "<TextStyle.Green>Base General Rules</>",
-                    "title2": "<TextStyle.Green>Base Build Rules</>",
-                    "title3": "<TextStyle.Blue>Tame Rules</>",
+                    "buttontext": "Rules",
+                    "title1": "<TextStyle.Yellow>Base General Rules</>",
+                    "title2": "<TextStyle.Yellow>Base Build Rules</>",
+                    "title3": "<TextStyle.Yellow>Tame Rules</>",
                     "title4": "<TextStyle.Yellow>Trade Rules</>",
                     "text1": "<TextStyle.Orange>This text goes into the top left box</>",
                     "text2": "<TextStyle.Violet>This text goes into the top right box</>",
