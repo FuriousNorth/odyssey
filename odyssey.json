@@ -30,8 +30,10 @@
                 "tab2": {
                     "layout": 4,
                     "buttontext": "<RichColor Color=\"1,1,0,1\">Rules</>",
-                    "title1": "Left title",
-                    "title2": "Right title",
+                    "title1": "<TextStyle.Yellow>General Rules</>",
+                    "title2": "<TextStyle.Yellow>Base Build Rules</>",
+                    "title3": "<TextStyle.Yellow>Tame Rules</>",
+                    "title4": "<TextStyle.Yellow>Trade Rules</>",
                     "text1": "This text goes into the left box",
                     "text2": "This text goes into the right box",
                     "text3": "<TextStyle.Red>This text goes into the bottom left box</>",
