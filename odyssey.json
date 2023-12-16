@@ -6,7 +6,7 @@
             "HideIconAfter": 0,
             "IconURL": "",
             "DisableIconText": true,
-            "IconPosition": 0,
+            "IconPosition": 1,
             "IconTextColor": 0,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
