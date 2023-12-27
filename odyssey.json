@@ -69,7 +69,12 @@
                     "url": "https://discord.gg/vaDd4rBCaB"
                 }
             },
-            {}
+            {
+                "link3": {
+                    "text": "Dododex",
+                    "url": "https://www.dododex.com/"
+                }
+            }
         ]
     }
 }
